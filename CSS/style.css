@@ -1,4 +1,12 @@
 .comienzo {
     margin: auto;
     padding: 0px;
+    font-family: 'Times New Roman', Times, serif;
 }
+
+.parrafo{
+    margin: auto;
+    font-family: 'Times New Roman', Times, serif;
+    padding-left: auto;
+}
+
