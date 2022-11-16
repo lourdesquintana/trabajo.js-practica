@@ -17,3 +17,13 @@ function suma(num1, num2) {
     let k = num1 + num2;
     return k;
 }
+console.log(suma(num1, num2));
+//#endregion suma
+
+
+//#region resta
+let numero1 = 60;
+let numero2 = 50;
+function resta(numero1, numero2) {
+    let rest = numero1 - numero2;
+    return rest;
