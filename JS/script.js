@@ -27,3 +27,17 @@ let numero2 = 50;
 function resta(numero1, numero2) {
     let rest = numero1 - numero2;
     return rest;
+
+}
+console.log(resta(numero1, numero2));
+//#endregion resta
+
+/#region multiplicacion
+let multi1 = 5;
+let multi2 = 6;
+function multiplicacion(multi1, multi2) {
+    let multiplic = multi1 * multi2;
+    return multiplic;
+}
+console.log(multiplicacion(multi1, multi2));
+//#endregion multiplicacion
