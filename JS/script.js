@@ -52,3 +52,9 @@ function division(divi1, divi2) {
 }
 console.log(division(divi1, divi2));
 //#endregion division
+
+
+let array1 = [60, 50, 40];
+for (i = 0; i < array1.length; i++) {
+    console.log(array1[i]);
+}
