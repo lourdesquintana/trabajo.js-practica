@@ -41,3 +41,14 @@ function multiplicacion(multi1, multi2) {
 }
 console.log(multiplicacion(multi1, multi2));
 //#endregion multiplicacion
+
+
+//#region division
+let divi1 = 10;
+let divi2 = 2;
+function division(divi1, divi2) {
+    let divisio = divi1 / divi2;
+    return divisio;
+}
+console.log(division(divi1, divi2));
+//#endregion division
